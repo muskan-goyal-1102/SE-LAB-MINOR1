@@ -1,5 +1,5 @@
 document.write(`<ul><div class="navi">
-  <li><a href="home.html">HOME</a></li>
+  <li><a href="index.html">HOME</a></li>
   <li><a href="contact.html">CONTACT US</a></li>
   <li><a href="team.html">OUR TEAM</a></li>
   <li class="boxe"><img src="uoh.png" alt=""><h1>SCIS</h1></li>
